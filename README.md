@@ -2,6 +2,8 @@
 
 A Flipper Zero application for tracking baby activities - feeding, sleeping, and diaper changes.
 
+P.S.: all these phone trackers are so clumsy, I don't want to unlock my phone in the middle of the night to find an app and start "feeding" and the unlock it again to finish it. Just click one button on your Flipper and it started logging your feeding/sleeping/diaper etc. 
+
 ![Flipper Zero](https://img.shields.io/badge/Flipper%20Zero-External%20App-orange)
 ![Version](https://img.shields.io/badge/version-0.1-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
