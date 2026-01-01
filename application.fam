@@ -1,0 +1,7 @@
+App(
+    appid="baby_log",
+    name="Baby Log",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="baby_log_app",
+    requires=["gui", "storage", "dialogs", "notification"]
+)

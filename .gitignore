@@ -1,0 +1,29 @@
+# Build artifacts
+*.o
+*.elf
+*.fap
+*.d
+*.a
+
+# Build directories
+build/
+.fbt/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Config files (user-specific, don't commit)
+config.json
+state.json
+log.jsonl
+deleted.jsonl
+debug.log
+
